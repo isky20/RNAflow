@@ -1,0 +1,14 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore compiled Python files
+*.gz
+
+# Ignore log files
+*.csv
+
+# Ignore system files
+.bam
+
+# Ignore environment files
+.nextflow
